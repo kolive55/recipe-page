@@ -1,0 +1,94 @@
+body{
+	background-color: white;
+	font-family: 'Raleway', sans-serif;
+	
+}
+
+h3{
+	font-size: 20px;
+	padding:0;
+	margin-top: 0px;
+}
+
+button{
+	display: block;
+	height: 30px;
+	width: 150px;
+	border-radius: 25px;
+	background-color: #707070;
+	color: white;
+	text-align: center;
+	font-size: 16px;
+	margin-top: 4px;
+}
+
+button:hover{
+	background-color: #5E0B15;
+}
+footer{
+	width: 960px;
+	float: left;
+}
+
+.top_logo{
+	float: left:;
+}
+.header_main{
+	font-family: 'Raleway', sans-serif;
+	font-size: 35px;
+	margin: 0px;
+}
+
+.sub_header{
+	font-family: 'Raleway', sans-serif;
+	font-weight: thin;
+	font-size: 20px;
+}
+
+.l-img{
+	height: auto;
+	width: 40%;
+	border-radius: 10px;
+	border: solid 5px;
+	float: left;
+	box-shadow: 5px 5px 5px;
+}
+
+.ingredients{
+	padding: 25px;
+	width: 50%;
+	display: inline-block;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	
+}
+
+.instructions{
+	float:left;
+	width: auto%;
+	padding: 15px;
+	
+}
+
+
+.btn-hide{
+	display: block;
+	height: 30px;
+	width: 150px;
+	border-radius: 25px;
+	background-color: #707070;
+	color: white;
+	
+}
+
+.completed{
+	text-decoration: line-through;
+}
+
+.highlight{
+	background-color: #FFFF99;
+}
+.logo_attrb{
+	display: inline-block;
+}
+
